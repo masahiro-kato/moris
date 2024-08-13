@@ -80,7 +80,6 @@
 
 [mask  time="1000"  effect="fadeIn"  color="0xff0000"  ]
 [jump  storage="title_screen.ks"  target=""  ]
-[mask_off  time="1000"  effect="fadeOut"  ]
 [s  ]
 *ぜんぶ
 

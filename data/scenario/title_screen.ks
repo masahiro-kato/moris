@@ -4,6 +4,8 @@
 
 [tb_clear_images]
 
+[chara_hide_all  time="1000"  wait="true"  ]
+[mask_off  time="1000"  effect="fadeOut"  ]
 [tb_ptext_show  x="439"  y="199"  size="81"  color="0xf01111"  time="0"  text="モリス学校"  anim="false"  face="undefined"  edge="undefined"  shadow="undefined"  ]
 [tb_ptext_show  x="345"  y="389"  size="30"  color="0xff0a0a"  time="1000"  text="マナーモードを解除し音量をあげてください"  anim="false"  face="undefined"  edge="undefined"  shadow="undefined"  ]
 [tb_hide_message_window  ]
