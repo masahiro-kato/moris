@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/bgimage/_playground_1.jpg"  ]
+[preload  storage="./data/fgimage/default/けん.png"  ]
+[preload  storage="./data/fgimage/default/じゅう.png"  ]
+[preload  storage="./data/fgimage/default/たて.png"  ]
+[return]
