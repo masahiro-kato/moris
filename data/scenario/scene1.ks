@@ -1,6 +1,6 @@
 [_tb_system_call storage=system/_scene1.ks]
 
-[playbgm  volume="100"  time="1000"  loop="true"  storage="せいいちのうた.mp3"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="せいいちのうた.m4a"  ]
 [cm  ]
 [bg  storage="room.jpg"  time="1000"  ]
 [tb_show_message_window  ]
